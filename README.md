@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Kachariya</h1>
-<h3 align="center">Aspiring frontend developer from India</h3>
+<h3 align="center">Aspiring Frontend Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-kachariya&label=Profile%20views&color=0e75b6&style=flat" alt="parth-kachariya" /> </p>
 
-- 🌱 I’m currently learning **frontend developing**
+- 🌱 I’m currently learning **Frontend Feveloping**
 
 - 📫 How to reach me **parthkachariya668@gmail.com**
 
