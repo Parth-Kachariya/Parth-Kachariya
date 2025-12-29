@@ -17,8 +17,4 @@
 <h3 align="left">Tools:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-kachariya&show_icons=true&locale=en&layout=compact" alt="parth-kachariya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-kachariya&show_icons=true&locale=en" alt="parth-kachariya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-kachariya&" alt="parth-kachariya" /></p>
