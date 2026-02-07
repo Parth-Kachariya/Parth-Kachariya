@@ -1,25 +1,88 @@
-<h1 align="center">Hi 👋, I'm Parth Kachariya</h1>
-<h3 align="center">Aspiring Frontend Developer From India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-kachariya&label=Profile%20views&color=0e75b6&style=flat" alt="parth-kachariya" /> </p>
-
-- 🌱 I’m currently learning **Frontend Development**
-
-- 📫 How to reach me **parthkachariya668@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/parth kachariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth kachariya" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h3 align="left">Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img >
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-kachariya&show_icons=true&locale=en&layout=compact" alt="parth-kachariya" /></p>
+<h2 align="center">
+Hi 👋 I'm Parth Kachariya   <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-kachariya&show_icons=true&locale=en" alt="parth-kachariya" /></p>
+</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-kachariya&" alt="parth-kachariya" /></p>
 
+---
+
+## 👨‍💻 About Me
+- 💻 Frontend Developer  
+- Html | Css | JavaScript |  React Js | Tailwind CSS | Bootstrap | Media-query React Bootstrap 
+- 🌱 Learning new things every day  
+- 🚀 Building real-world projects  
+
+---
+
+
+<p >
+  <img src="https://komarev.com/ghpvc/?username=parth-kachariya&label=Profile%20Views&color=3cdfff&style=for-the-badge" />
+</p>
+
+
+---
+
+## 📈 GitHub Summary
+
+<p >
+  <img src="https://img.shields.io/badge/Total%20Commits-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Learner-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend-orange?style=for-the-badge" />
+</p>
+
+
+
+---
+
+
+
+## 🛠️ Skills
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Styling & UI
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Bootstrap-41E0FD?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flowbite-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### Animation
+<p>
+  <img src="https://img.shields.io/badge/AOS_Animation-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Animista-000000?style=for-the-badge" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+
+
+---
+
+
+
+<!-- 🐍 Snake animation (optional – needs GitHub Action setup)
+![Snake animation](https://raw.githubusercontent.com/parth-kachariya/parth-kachariya/output/github-contribution-grid-snake.svg)
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
 
