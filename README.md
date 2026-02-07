@@ -77,6 +77,13 @@ Hi 👋 I'm Parth Kachariya   <br/>
 ---
 
 
+### GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-kachariya&theme=radical" />
+</p>
+
+
+
 
 <!-- 🐍 Snake animation (optional – needs GitHub Action setup)
 ![Snake animation](https://raw.githubusercontent.com/parth-kachariya/parth-kachariya/output/github-contribution-grid-snake.svg)
