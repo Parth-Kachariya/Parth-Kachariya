@@ -12,7 +12,7 @@ Hi 👋 I'm Parth Kachariya   <br/>
 
 ## 👨‍💻 About Me
 - 💻 Frontend Developer  
-- Html | Css | JavaScript |  React Js | Tailwind CSS | Bootstrap | Media-query React Bootstrap 
+- Html | Css | JavaScript |  React Js | Tailwind CSS | Bootstrap | Media-query | React Bootstrap 
 - 🌱 Learning new things every day  
 - 🚀 Building real-world projects  
 
